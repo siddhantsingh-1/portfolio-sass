@@ -88,6 +88,7 @@
 
 			&.open {
 				transform: translateX(0);
+				padding-bottom: 0;
 			}
 
 			&.active > a {
